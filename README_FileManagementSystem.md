@@ -71,7 +71,7 @@ FileManagementSystem/
 ## 📬 Contact
 
 **Developer:** Mohamed Ibrahim  
-**LinkedIn:** [linkedin.com/in/mohamed-ibrahim](https://linkedin.com/in/mohamed-ibrahim)  
+**LinkedIn:** [https://www.linkedin.com/in/mohamed-ibrahim-21647228a/)  
 **Email:** mohamedmohamudibrahim05@gmail.com
 
 ---
